@@ -62,3 +62,4 @@ Are you using Gitmoji on your project? Set the Gitmoji badge on top of your read
 ## License
 
 The code is available under the [MIT](https://github.com/carloscuesta/gitmoji/blob/master/LICENSE) license.
+Some code by me!
